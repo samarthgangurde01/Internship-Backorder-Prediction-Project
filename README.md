@@ -1,6 +1,6 @@
 
 # Project Title:- Backorder Prediction
-[https://images.indianexpress.com/2018/07/10_759-1.jpg](https://i.pcmag.com/imagery/articles/03CMc2DfBSZ0x9ZZPfNfh0T-3.fit_scale.size_1028x578.v1590500207.jpg)
+![image](https://user-images.githubusercontent.com/93859458/180660637-74fa2646-f4e5-4a3e-9b37-32d7dfdb7fd8.png)
 ## Description
 It was intership project from ineuron.ai
 problem statement-Backorders are unavoidable, but by anticipating which things will be backordered, 
